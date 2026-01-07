@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a second year Computer Science major at the University of Cape Town.<br>I am currently working on Java, Python, C# and SQL.<br>I am interested in working with data analytics/science and cybersecurity.<br>
+I am currently a final year Computer Science major at the University of Cape Town.<br>I am currently working on Java, Python, C# and SQL.<br>I am interested in working with data analytics/science and cybersecurity.<br>
 
 
 ## 🌐 Socials:
