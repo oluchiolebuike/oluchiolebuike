@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey guys, i'm Oluchi !<br><br>a final year Computer Science & Business Computing student @University of Cape Town <br>passionate about engineering real-world systems and optimizing them.<br><br>when I'm not building systems, you can find me running or in the gym, taking photos or my doing my makeup and others
+hey guys, i'm Oluchi Aviwe !<br><br>a final year Computer Science & Business Computing student @University of Cape Town <br>passionate about engineering real-world systems and optimizing them.<br><br>when I'm not building systems, you can find me running or in the gym, taking photos or my doing my makeup and others
 
 
 ## 🌐 Socials:
